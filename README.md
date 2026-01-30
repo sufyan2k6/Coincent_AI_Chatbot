@@ -36,7 +36,7 @@ Follow the steps below to run the AI Chatbot locally on your system.
 
 ### Clone the Repository
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/sufyan2k6/Coincent_AI_Chatbot
 cd coincent-ai-chatbot
 
 ### Install Dependencies
