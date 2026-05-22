@@ -59,7 +59,7 @@ for chat in st.session_state.chat_history:
 def get_bot_response(message):
     try:
         res = requests.post(
-            "http://127.0.0.1:8000/chat",
+            "https://sufyan-ai-chatbot.onrender.com",
             json={"message": message},
             timeout=30
         )
